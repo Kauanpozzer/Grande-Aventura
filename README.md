@@ -1,31 +1,31 @@
-## Em Busca da Cidade Perdida 🧭
+##In Search of the Lost City   
 
-Este é o projeto de um jogo de aventura baseado em texto, onde a pessoa usuária toma decisões que influenciam o rumo da história. O objetivo é encontrar uma cidade perdida seguindo pistas em uma carta antiga.
+This is a text-based adventure game project where a user makes decisions that influence the story's direction. The objective is to find a lost city by following clues in an old letter.
 
-### Funcionalidades
+### Features
 
-- **Narrativa interativa:** A história se desenrola através de parágrafos de texto, com o usuário fazendo escolhas em pontos específicos.
-- **Múltiplos finais:** Dependendo das decisões tomadas, o jogador pode encontrar a cidade perdida, desistir da aventura ou chegar a outros finais.
-- **Navegação simples:** Botões guiam a pessoa usuária pela história, revelando o próximo passo da aventura.
+- **Interactive narrative:** The story unfolds through paragraphs of text, with the user making choices at specific points.
+- **Multiple endings:** Depending on the decisions made, the player can find the lost city, give up on the adventure or reach other endings.
+- **Simple navigation:** Buttons guide the user through the story, revealing the next step of the adventure.
 
-### Como jogar
+### How to play
 
-1. Abra o arquivo `index.html` em seu navegador.
-2. Leia a história apresentada e clique no botão que corresponde à sua escolha.
-3. Continue seguindo a narrativa e tomando decisões até chegar a um final.
+1. Open the `index.html` file in your browser.
+2. Read the presented story and click on the button that corresponds to your choice.
+3. Continue following the narrative and decisions until you reach an ending.
 
-### Estrutura do projeto
+### Project structure
 
-O projeto consiste em três arquivos principais:
+The project consists of three main files:
 
-- **index.html:** Contém o HTML da página, exibindo a história e os botões de navegação.
-- **style.css:** Define o estilo visual do jogo, incluindo cores, fontes e layout.
-- **script.js:** Contém o código JavaScript que controla a lógica do jogo, como a mudança entre os passos da história.
+- **index.html:** Contains the HTML of the page, displaying the story and navigation buttons.
+- **style.css:** Defines the game's visual style, including cores, fonts and layout.
+- **script.js:** Contains the JavaScript code that controls the game logic, such as switching between story steps.
 
-### Sugestões de melhoria para o futuro
+### Suggestions for improvement for the future
 
-- Implementar mais imagens e efeitos sonoros nos pontos para tornar a experiência mais imersiva.
-- Criar mais ramificações na história, adicionando mais escolhas e finais ✨
-- Deixar o projeto mais acessível para dispositivos móveis.
+- Implement more images and sound effects at points to make the experience more immersive.
+- Create more branches in the story, adding more choices and endings ✨
+- Make the project more accessible for mobile devices.
 
-**Divirta-se em busca da cidade perdida! 🛝** 
+**Have fun searching for the lost city!   **
